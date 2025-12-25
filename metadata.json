@@ -1,0 +1,7 @@
+{
+  "name": "Quản lý Thi công Cơ điện Phoenix",
+  "description": "Hệ thống quản lý dự án cơ điện (MEP) và phòng cháy chữa cháy chuyên nghiệp, tích hợp nhật ký thi công, danh mục kiểm tra và báo cáo thông minh từ AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
